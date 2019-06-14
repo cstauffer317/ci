@@ -8,7 +8,7 @@
   * The building blocks of agile
     * Backlog
     * Prioritization
-    * Sprit-based
+    * Sprint-based
   * Being more agile
     * Stand-up meeting
     * Sharing feedback after each sprint
