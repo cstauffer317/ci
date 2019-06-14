@@ -9,7 +9,7 @@ The first step is defining the principles of Continous Improvement:
 
 These priciples act as a mechanism to break down the tools and techniques surrounding each segment of the projects.
 
-The segments of this projects are:
+The segments of this project are:
 
 * Planning
 * Development
